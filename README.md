@@ -3,6 +3,6 @@
 
 - 🔭 I’m currently working on ways of saving the world.
 - 🌱 I’m currently learning Vue and Vuetify.
-- 💬 Ask me about CSS, HTML, accessibility, dogs, space, lasers...
+- 💬 Ask me about Javascript, CSS, HTML, accessibility, dogs, space...
 - 📫 How to reach me: '26o66qfr' + '@' + 'duck.com'
 - 😄 Pronouns: He/Him/My lord
