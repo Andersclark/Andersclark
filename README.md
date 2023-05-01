@@ -1,7 +1,7 @@
 # Readme
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andersclark&count_private=true&theme=outrun)](https://github.com/anuraghazra/github-readme-stats&hide=contribs,prs, issues)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andersclark&count_private=true&theme=outrun&hide=contribs,prs, issues)](https://github.com/anuraghazra/github-readme-stats
 
 ## In bullet form
 
