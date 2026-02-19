@@ -2,9 +2,9 @@
 
 ## In bullet form
 
-- 🌱 I’m currently learning more about SVGs, CSS animations and state management in Javascript.
-- 💬 Ask me about: Sustainable web development, Javascript, HTML, CSS, dogs, space, kite-surfing, the ocean...
-- 📫 How to reach me: '26o66qfr' + '@' + 'duck.com' or Signal, assuming we have had an actual conversation and I gave you my number.
+- 🌱 **I’m currently learning**: Application architecture.
+- 💬 **Ask me about**: Sustainable web development, Javascript, HTML, CSS, dogs, space, kite-surfing, ADHD.
+- 📫 How to reach me: '26o66qfr' + '@' + 'duck.com', WhatsApp or Signal, assuming we have had an actual conversation and I gave you my number.
 
 
 ## Background
